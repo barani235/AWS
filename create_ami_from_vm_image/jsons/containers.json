@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "My Server OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "my-import-bucket",
+        "S3Key": "<vm-file-path>/<vm-image-name>"
+    }
+}]
