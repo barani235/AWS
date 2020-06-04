@@ -1,4 +1,5 @@
-<ul>The repository contains the following:
+<p>The repository contains the following:<p>
+<ul>
 <li>Helper scripts</li>
 <li>Set up procedures</li>
 </ul>
