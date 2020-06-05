@@ -12,4 +12,5 @@
 <b>touch $HOME/.shh/authorized_keys</b><br>
 <b>chmod 600 $HOME/.ssh/authorized_keys</b><br>
 <b>sudo cp /home/ubuntu/.ssh/authorized_keys $HOME/.ssh/authorized_keys</b><br>
+<br>
 <p>Now, rdp into the ubuntu server using the option sesman-Xvnc from dropdown and "remote" as username and password</p>
