@@ -4,6 +4,7 @@
 <br>
 <p>Give "sudo" permissions to the user "remote"</p>
 <b>sudo usermod -aG sudo remote</b><br>
+<br>
 <p>Copy the "authorized_keys" of the default user to the user "remote"</p>
 <b>sudo su remote</b><br>
 <b>mkdir $HOME/.ssh</b><br>
