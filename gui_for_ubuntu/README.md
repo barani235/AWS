@@ -1,9 +1,9 @@
 <h3>Attention!</h3>
 <p>Create a new user "remote" to enable rdp into the ubuntu instance</p>
-<b>sudo adduser remote</b>
+<b>sudo adduser remote</b><br>
 <br>
 <p>Give "sudo" permissions to the user "remote"</p>
-<b>sudo usermod -aG sudo remote</b>
+<b>sudo usermod -aG sudo remote</b><br>
 <p>Copy the "authorized_keys" of the default user to the user "remote"</p>
 <b>sudo su remote</b><br>
 <b>mkdir $HOME/.ssh</b><br>
