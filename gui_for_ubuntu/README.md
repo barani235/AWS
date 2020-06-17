@@ -9,7 +9,7 @@
 <b>sudo su remote</b><br>
 <b>mkdir $HOME/.ssh</b><br>
 <b>chmod 700 $HOME/.ssh</b><br>
-<b>touch $HOME/.shh/authorized_keys</b><br>
+<b>touch $HOME/.ssh/authorized_keys</b><br>
 <b>chmod 600 $HOME/.ssh/authorized_keys</b><br>
 <b>sudo cp /home/ubuntu/.ssh/authorized_keys $HOME/.ssh/authorized_keys</b><br>
 <br>
